@@ -1,0 +1,52 @@
+101 West Coast 181 2347.4 0.5%
+102 Cape Winelands 346 4355.5 0.9%
+103 Overberg 112 1453.9 0.3%
+104 Eden 296 3672.1 0.8%
+105 Central Karoo 53 648.0 0.1%
+199 City of Cape Town 1793 21548.5 4.6%
+210 Cacadu 365 4270.3 0.9%
+212 Amathole 1177 13321.5 2.8%
+213 Chris Hani 1087 12340.6 2.6%
+214 Ukhahlamba 440 5034.0 1.1%
+215 O.R.Tambo 1344 14762.9 3.2%
+244 Alfred Nzo 1060 11716.5 2.5%
+260 Buffalo City 653 7507.1 1.6%
+299 Nelson Mandela Bay 906 10377.1 2.2%
+306 Namakwa 87 1047.0 0.2%
+307 Pixley ka Seme 194 2263.1 0.5%
+308 Siyanda 191 2202.8 0.5%
+309 Frances Baard 342 3959.1 0.8%
+345 John Taolo Gaetsewe 228 2561.5 0.5%
+416 Xhariep 172 1967.9 0.4%
+418 Lejweleputswa 724 8277.5 1.8%
+419 Thabo Mofutsanyane 988 11200.9 2.4%
+420 Fezile Dabi 482 5525.5 1.2%
+499 Mangaung 751 8562.8 1.8%
+521 Ugu 766 8859.2 1.9%
+522 UMgungundlovu 932 11272.7 2.4%
+523 Uthukela 757 8726.4 1.9%
+527 Umkhanyakude 456 5115.4 1.1%
+528 Uthungulu 841 9705.7 2.1%
+543 Sisonke 516 6009.8 1.3%
+554 Umzinyathi 530 6046.6 1.3%
+555 Amajuba 583 6783.1 1.4%
+556 Zululand 924 10515.4 2.2%
+559 iLembe 547 6420.6 1.4%
+599 eThekwini Metropolitan 2505 30313.5 6.5%
+637 Bojanala 1146 13770.0 2.9%
+638 Ngaka Modiri Molema 864 10203.1 2.2%
+639 Dr Ruth Segomotsi Mompati 532 6212.1 1.3%
+640 Dr Kenneth Kaunda 605 7519.3 1.6%
+742 Sedibeng 725 8530.7 1.8%
+748 West Rand 524 6213.0 1.3%
+797 Ekurhuleni 1905 22491.6 4.8%
+798 City of Johannesburg 2282 26968.9 5.8%
+799 City of Tshwane 1411 16635.2 3.6%
+830 Gert Sibande 993 11653.4 2.5%
+831 Nkangala 1040 12102.9 2.6%
+832 Ehlanzeni 1250 14188.0 3.0%
+933 Mopani 748 8257.8 1.8%
+934 Vhembe 729 8032.2 1.7%
+935 Capricorn 955 10616.3 2.3%
+936 Waterberg 470 5249.5 1.1%
+947 Greater Sekhukhune 795 8731.4 1.9%

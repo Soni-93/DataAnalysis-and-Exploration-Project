@@ -1,0 +1,234 @@
+160 Matzikama 38 517.5 0.1%
+161 Cederberg 17 244.5 0.1%
+162 Bergrivier 28 360.8 0.1%
+163 Saldanha Bay 47 568.8 0.1%
+164 Swartland 51 655.7 0.1%
+165 Witzenberg 48 620.9 0.1%
+166 Drakenstein 110 1338.7 0.3%
+167 Stellenbosch 65 831.9 0.2%
+168 Breede Valley 78 993.7 0.2%
+169 Langeberg 45 570.2 0.1%
+170 Swellendam 16 208.4 0.0%
+171 Theewaterskloof 38 490.9 0.1%
+172 Overstrand 42 549.1 0.1%
+173 Cape Agulhas 16 205.5 0.0%
+174 Kannaland 16 199.9 0.0%
+175 Hessequa 29 371.8 0.1%
+176 Mossel Bay 41 504.1 0.1%
+177 George 93 1157.9 0.2%
+178 Oudtshoorn 59 707.8 0.2%
+179 Bitou 28 355.2 0.1%
+180 Knysna 30 375.4 0.1%
+181 Laingsburg 8 94.9 0.0%
+182 Prince Albert 8 104.5 0.0%
+183 Beaufort West 37 448.5 0.1%
+199 City of Cape Town 1793 21548.5 4.6%
+260 Buffalo City 653 7507.1 1.6%
+261 Camdeboo 39 448.1 0.1%
+262 Blue Crane Route 33 382.8 0.1%
+263 Ikwezi 11 129.9 0.0%
+264 Makana 72 830.8 0.2%
+265 Ndlambe 60 707.6 0.2%
+266 Sundays River Valley 42 493.1 0.1%
+267 Baviaans 17 201.1 0.0%
+268 Kouga 65 769.6 0.2%
+269 Kou-Kamma 26 307.3 0.1%
+270 Mbhashe 308 3429.4 0.7%
+271 Mnquma 350 3967.2 0.8%
+272 Great Kei 41 474.4 0.1%
+273 Amahlathi 176 1997.4 0.4%
+274 Ngqushwa 97 1115.9 0.2%
+276 Nkonkobe 170 1933.7 0.4%
+277 Nxuba 35 403.6 0.1%
+278 Inxuba Yethemba 72 833.9 0.2%
+279 Tsolwana 46 527.5 0.1%
+280 Inkwanca 28 326.6 0.1%
+281 Lukanji 252 2873.2 0.6%
+282 Intsika Yethu 221 2506.5 0.5%
+283 Emalahleni-EC 183 2084.5 0.4%
+284 Engcobo 199 2205.1 0.5%
+285 Sakhisizwe 86 983.4 0.2%
+286 Elundini 172 1962.7 0.4%
+287 Senqu 181 2069.1 0.4%
+288 Maletswai 41 472.9 0.1%
+289 Gariep 46 529.2 0.1%
+290 Ngquza Hill 308 3350.7 0.7%
+291 Port St Johns 140 1522.1 0.3%
+292 Nyandeni 270 2955.5 0.6%
+293 Mhlontlo 215 2383.1 0.5%
+294 King Sabata Dalindyebo 411 4551.3 1.0%
+295 Matatiele 285 3226.4 0.7%
+296 Umzimvubu 241 2708.1 0.6%
+297 Mbizana 381 4107.2 0.9%
+298 Ntabankulu 153 1674.7 0.4%
+299 Nelson Mandela Bay 906 10377.1 2.2%
+360 Joe Morolong 115 1283.5 0.3%
+361 Ga-Segonyane 91 1029.6 0.2%
+362 Gamagara 22 248.4 0.1%
+363 Richtersveld 9 108.2 0.0%
+364 Nama Khoi 36 430.2 0.1%
+365 Kamiesberg 9 114.8 0.0%
+366 Hantam 15 179.8 0.0%
+367 Karoo Hoogland 8 99.2 0.0%
+368 Khâi-Ma 10 114.9 0.0%
+369 Ubuntu 17 206.0 0.0%
+370 Umsobomvu 31 366.9 0.1%
+371 Emthanjeni 47 538.2 0.1%
+372 Kareeberg 12 147.4 0.0%
+373 Renosterberg 7 84.1 0.0%
+374 Thembelihle 18 205.1 0.0%
+375 Siyathemba 24 280.6 0.1%
+376 Siyancuma 38 434.7 0.1%
+377 Mier 5 55.9 0.0%
+378 Kai !Garib 49 565.7 0.1%
+379 //Khara Hais 76 870.8 0.2%
+380 !Kheis 16 179.5 0.0%
+381 Tsantsabane 30 353.1 0.1%
+382 Kgatelopele 15 177.8 0.0%
+383 Sol Plaatjie 197 2274.7 0.5%
+384 Dikgatlong 40 477.5 0.1%
+385 Magareng 28 332.2 0.1%
+386 Phokwane 77 874.7 0.2%
+460 Letsemeng 40 452.0 0.1%
+461 Kopanong 58 671.2 0.1%
+462 Mohokare 42 482.1 0.1%
+463 Naledi-FS 32 362.6 0.1%
+464 Masilonyana 77 880.0 0.2%
+465 Tokologo 29 334.0 0.1%
+466 Tswelopele 60 678.5 0.1%
+467 Matjhabeng 435 4989.8 1.1%
+468 Nala 123 1395.2 0.3%
+469 Setsoto 156 1774.9 0.4%
+470 Dihlabeng 131 1498.1 0.3%
+471 Nketoana 83 952.9 0.2%
+472 Maluti a Phofung 489 5496.4 1.2%
+473 Phumelela 67 768.4 0.2%
+474 Mantsopa 62 710.2 0.2%
+475 Moqhaka 178 2042.7 0.4%
+477 Ngwathe 138 1584.5 0.3%
+478 Metsimaholo 111 1270.3 0.3%
+479 Mafube 55 628.0 0.1%
+499 Mangaung 751 8562.8 1.8%
+503 Umzumbe 201 2300.5 0.5%
+504 Umuziwabantu 118 1353.5 0.3%
+505 Ezingoleni 66 745.3 0.2%
+506 Hibiscus Coast 233 2742.5 0.6%
+514 Emnambithi/Ladysmith 256 3011.7 0.6%
+524 Newcastle 404 4706.2 1.0%
+525 Emadlangeni 36 447.4 0.1%
+526 Dannhauser 143 1629.5 0.3%
+529 Abaqulusi 252 2942.2 0.6%
+538 uMhlathuze 236 2793.4 0.6%
+542 Nkandla 128 1426.8 0.3%
+546 Maphumulo 107 1203.5 0.3%
+560 Vulamehlo 86 970.8 0.2%
+561 Umdoni 62 746.6 0.2%
+562 uMshwathi 124 1493.3 0.3%
+563 uMngeni 79 1005.7 0.2%
+564 Mpofana 32 391.9 0.1%
+565 Impendle 47 547.4 0.1%
+566 The Msunduzi 507 6121.9 1.3%
+567 Mkhambathini 75 912.6 0.2%
+568 Richmond 68 799.9 0.2%
+569 Indaka 131 1464.4 0.3%
+570 Umtshezi 67 807.1 0.2%
+571 Okhahlamba 167 1903.7 0.4%
+573 Imbabazane 136 1539.6 0.3%
+574 Endumeni 53 625.3 0.1%
+575 Nqutu 223 2488.1 0.5%
+576 Msinga 159 1800.9 0.4%
+577 Umvoti 95 1132.3 0.2%
+578 eDumbe 99 1139.9 0.2%
+579 Uphongolo 158 1800.6 0.4%
+580 Nongoma 215 2374.0 0.5%
+581 Ulundi 200 2258.7 0.5%
+582 Umhlabuyalingana 84 950.7 0.2%
+583 Jozini 112 1236.8 0.3%
+584 The Big 5 False Bay 21 253.5 0.1%
+585 Hlabisa 76 847.4 0.2%
+586 Mtubatuba 163 1827.0 0.4%
+587 Mfolozi 102 1163.0 0.2%
+588 Ntambanana 85 938.5 0.2%
+589 uMlalazi 229 2624.0 0.6%
+590 Mthonjaneni 61 760.0 0.2%
+591 Mandeni 116 1372.3 0.3%
+592 KwaDukuza 175 2143.5 0.5%
+593 Ndwedwe 149 1701.3 0.4%
+594 Ingwe 119 1372.7 0.3%
+595 Kwa Sani 16 208.2 0.0%
+596 Greater Kokstad 35 434.3 0.1%
+597 Ubuhlebezwe 118 1377.9 0.3%
+598 Umzimkhulu 228 2616.7 0.6%
+599 eThekwini 2505 30313.5 6.5%
+660 Moretele 197 2306.2 0.5%
+661 Madibeng 321 3867.9 0.8%
+662 Rustenburg 333 4071.3 0.9%
+663 Kgetlengrivier 43 537.3 0.1%
+664 Moses Kotane 252 2987.4 0.6%
+665 Ratlou 159 1810.4 0.4%
+666 Tswaing 143 1727.4 0.4%
+667 Mafikeng 249 2878.4 0.6%
+668 Ditsobotla 172 2117.9 0.5%
+669 Ramotshere Moiloa 141 1668.9 0.4%
+670 Naledi-NW 55 675.5 0.1%
+671 Mamusa 65 771.6 0.2%
+672 Greater Taung 239 2755.2 0.6%
+673 Lekwa-Teemane 62 725.3 0.2%
+674 Kagisano/Molopo 111 1284.4 0.3%
+675 Ventersdorp 54 815.8 0.2%
+676 Tlokwe City Council 118 1447.0 0.3%
+677 City of Matlosana 350 4216.4 0.9%
+678 Maquassi Hills 83 1040.2 0.2%
+760 Emfuleni 588 6883.6 1.5%
+761 Midvaal 56 683.5 0.1%
+762 Lesedi 81 963.5 0.2%
+763 Mogale City 210 2499.9 0.5%
+764 Randfontein 101 1195.8 0.3%
+765 Westonaria 63 739.8 0.2%
+766 Merafong City 150 1777.5 0.4%
+797 Ekurhuleni 1905 22491.6 4.8%
+798 City of Johannesburg 2282 26968.9 5.8%
+799 City of Tshwane 1411 16635.2 3.6%
+860 Albert Luthuli 237 2711.7 0.6%
+861 Msukaligwa 141 1674.9 0.4%
+862 Mkhondo 149 1815.2 0.4%
+863 Pixley Ka Seme 114 1323.7 0.3%
+864 Lekwa 97 1156.5 0.2%
+865 Dipaleseng 37 434.4 0.1%
+866 Govan Mbeki 218 2537.0 0.5%
+867 Victor Khanye 63 756.4 0.2%
+868 Emalahleni-MP 249 2933.0 0.6%
+869 Steve Tshwete 134 1599.2 0.3%
+870 Emakhazeni 41 483.6 0.1%
+871 Thembisile 308 3530.0 0.8%
+872 Dr JS Moroka 245 2800.8 0.6%
+873 Thaba Chweu 50 585.6 0.1%
+874 Mbombela 437 4994.2 1.1%
+875 Umjindi 44 524.4 0.1%
+876 Nkomazi 302 3382.4 0.7%
+877 Bushbuckridge 417 4701.4 1.0%
+960 Greater Giyani 156 1709.1 0.4%
+961 Greater Letaba 180 1997.4 0.4%
+962 Greater Tzaneen 262 2907.2 0.6%
+963 Ba-Phalaborwa 87 956.4 0.2%
+964 Maruleng 63 687.8 0.1%
+965 Mutale 44 485.0 0.1%
+966 Thulamela 325 3578.4 0.8%
+967 Musina 20 230.2 0.0%
+968 Makhado 340 3738.7 0.8%
+969 Blouberg 139 1521.8 0.3%
+970 Aganang 146 1619.4 0.3%
+973 Molemole 92 1024.4 0.2%
+974 Polokwane 402 4493.4 1.0%
+976 Lepele-Nkumpi 176 1957.2 0.4%
+977 Thabazimbi 31 364.6 0.1%
+978 Lephalale 74 816.1 0.2%
+979 Mookgopong 18 212.0 0.0%
+980 Modimolle 40 446.2 0.1%
+981 Bela-Bela 36 409.8 0.1%
+982 Mogalakwena 271 3000.7 0.6%
+983 Ephraim Mogale 102 1121.8 0.2%
+984 Elias Motsoaledi 224 2470.9 0.5%
+985 Makhuduthamaga 194 2128.9 0.5%
+986 Fetakgomo 61 674.6 0.1%
+987 Greater Tubatse 214 2335.3 0.5%
